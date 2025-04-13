@@ -1,0 +1,36 @@
+{
+  "problems": [
+    {
+      "id": 1,
+      "title": "Two Sum",
+      "difficulty": "Easy",
+      "category": "Arrays",
+      "description": "Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.",
+      "examples": [
+        {
+          "input": "nums = [2,7,11,15], target = 9",
+          "output": "[0,1]",
+          "explanation": "Because nums[0] + nums[1] == 9, we return [0, 1]."
+        }
+      ],
+      "submissions": 1234,
+      "successRate": 75
+    },
+    {
+      "id": 2,
+      "title": "Valid Parentheses",
+      "difficulty": "Medium",
+      "category": "Stacks",
+      "description": "Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.",
+      "examples": [
+        {
+          "input": "s = '()'",
+          "output": "true",
+          "explanation": "The brackets match correctly."
+        }
+      ],
+      "submissions": 987,
+      "successRate": 62
+    }
+  ]
+}

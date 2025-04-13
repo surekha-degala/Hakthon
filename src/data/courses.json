@@ -1,0 +1,54 @@
+{
+  "academicCourses": [
+    {
+      "id": 1,
+      "title": "Data Structures and Algorithms",
+      "instructor": "Dr. Sarah Chen",
+      "description": "Comprehensive course covering fundamental data structures and algorithmic concepts",
+      "materials": [
+        { "type": "pdf", "title": "Graph Theory Basics", "url": "#" },
+        { "type": "video", "title": "Binary Trees Tutorial", "url": "#" }
+      ],
+      "progress": 65
+    },
+    {
+      "id": 2,
+      "title": "Web Development Fundamentals",
+      "instructor": "Prof. Michael Rodriguez",
+      "description": "Learn modern web development using React, Node.js, and related technologies",
+      "materials": [
+        { "type": "pdf", "title": "React Basics", "url": "#" },
+        { "type": "video", "title": "API Integration", "url": "#" }
+      ],
+      "progress": 42
+    }
+  ],
+  "codingTracks": [
+    {
+      "id": 1,
+      "title": "Python Mastery",
+      "level": "Intermediate",
+      "description": "Master Python programming with hands-on projects and exercises",
+      "modules": [
+        "Basic Syntax",
+        "Data Structures",
+        "OOP Concepts",
+        "Advanced Features"
+      ],
+      "progress": 75
+    },
+    {
+      "id": 2,
+      "title": "Java Programming",
+      "level": "Advanced",
+      "description": "Advanced Java programming concepts and enterprise applications",
+      "modules": [
+        "Core Java",
+        "Collections Framework",
+        "Multithreading",
+        "Spring Boot"
+      ],
+      "progress": 30
+    }
+  ]
+}
